@@ -213,7 +213,7 @@ body{
     height: auto;
     width: auto;
     opacity: 0.8;
-    margin: 70px;
+    margin-bottom: 50px;
   }
   
   .top-wrapper::before {
@@ -241,14 +241,15 @@ body{
     text-align: right;
   }
   
-.top-wrapper p {
-  text-align: justify;
+  .top-wrapper p {
+    text-align: justify;
   font-size: 24px;
   color: #fff;
   padding: 20px;
-  border-radius: 5;
-}
-
+  border-radius: 5px;
+  margin: 20px;
+  line-height: 1.5;
+  }
   
 
 
@@ -314,7 +315,7 @@ body{
     text-align: right;
     padding: 50px 7%;
     padding-bottom: 0;
-    margin: 50px; /* add margin to this */
+    margin-top: 70px;
 }
     
 .contact-us a{
