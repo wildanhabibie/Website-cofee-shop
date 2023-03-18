@@ -213,7 +213,7 @@ body{
     height: auto;
     width: auto;
     opacity: 0.8;
-    margin-bottom: 50px;
+    margin: 50px;
   }
   
   .top-wrapper::before {
